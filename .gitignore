@@ -1,0 +1,56 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+*.log
+*.env
+polling-system/
+
+# Django
+*.egg-info/
+.eggs/
+media/
+staticfiles/
+db.sqlite3
+
+# React
+node_modules/
+build/
+*.log
+
+# Environment variables
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest
+.pytest_cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Miscellaneous
+*.orig
+*.bak
+*.tmp
